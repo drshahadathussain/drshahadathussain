@@ -8,7 +8,7 @@
   <h3 style="border-bottom: none;">A researcher in mechanical engineering as well as in materials science from UAE</h3>
 </div>
 
-<br>
+
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;margin-bottom: 20px;">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/1.png" width="30" height="30">
