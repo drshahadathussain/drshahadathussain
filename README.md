@@ -2,8 +2,16 @@
 
 
 
-## Hi 👋 I'm Shahadat Hussain
+# Hi 👋 I'm Shahadat Hussain
 A researcher in mechanical engineering as well as in materials science and technology area
+## 🚀 About Me:
+- 🔭 Currently working on Numerical Code Verification using python.
+- 🌱 Learning python.
+- 💬 Ask me about html, python, sql, data science, materials science, mechanical engineering and linux.
+
+
+
+
 <!--
 **shahadat-hussain/shahadat-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
