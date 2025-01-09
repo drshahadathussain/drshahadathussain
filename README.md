@@ -21,7 +21,7 @@
 
 <h2>🛠 Tools and Technologies:</h2>
 <ul>
-  <li>Languages: Python, SQL, C</li>
+  <li>Languages: Python, HTML, SQL, C</li>
   <li>Software: FreeCAD, Abaqus, TinkerCAD, Cura, PreForm, IdeaMaker, GrabCAD, Materialise Magics</li>
   <li>Tools: Git, Linux, Shell Scripting</li>
 </ul>
