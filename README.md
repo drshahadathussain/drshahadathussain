@@ -43,7 +43,7 @@
 
 ## 🌐 Research Profiles
 
-<div align="center">
+<div align="left">
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4355--2169-green?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0002-4355-2169)  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=tQNSWaAAAAAJ&hl=en)  
