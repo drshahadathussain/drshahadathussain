@@ -1,4 +1,7 @@
-![Banner](https://github.com/shahadat-hussain/shahadat-hussain/blob/main/giphy-2.webp)
+<div align="center">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/blob/main/giphy-2.webp" alt="Banner" width="800">
+</div>
+
 
 
 
