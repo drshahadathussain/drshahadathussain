@@ -8,23 +8,28 @@
   <h3 style="border-bottom: none;">A researcher in mechanical engineering as well as in materials science from UAE</h3>
 </div>
 
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/1.png)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/2.png)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/3.png)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/4.png)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/5.svg)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/6.png)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/7.webp)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/8.png)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/9.png)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/10.png)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/11.png)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/12.webp)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/13.png)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/14.png)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/15.webp)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/16.png)
-![Python](https://github.com/shahadat-hussain/shahadat-hussain/raw/main/17.png)
+
+
+<div style="display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/1.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/2.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/3.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/4.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/5.svg" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/6.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/7.webp" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/8.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/9.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/10.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/11.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/12.webp" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/13.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/14.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/15.webp" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/16.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/17.png" width="30" height="30">  
+</div>
+
 
 
 
