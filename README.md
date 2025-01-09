@@ -41,7 +41,7 @@
 
 
 
-## 🌐 Profiles
+## 🌐 Research Profiles
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4355--2169-green?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0002-4355-2169)
 
