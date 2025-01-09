@@ -85,7 +85,7 @@
 ![h-index](https://img.shields.io/badge/h--index-9-orange?style=for-the-badge)
 ![i10-index](https://img.shields.io/badge/i10--index-9-yellow?style=for-the-badge)
 
-
+[![Update Research Stats](https://github.com/shahadat-hussain/shahadat-hussain/actions/workflows/update_stats.yml/badge.svg?branch=main)](https://github.com/shahadat-hussain/shahadat-hussain/actions/workflows/update_stats.yml)
 
 
 
