@@ -41,8 +41,8 @@
 
 
 
-![Google Scholar](https://img.shields.io/badge/https://scholar.google.com/citations?user=tQNSWaAAAAAJ&hl=en-blue)
-![ORCID](https://img.shields.io/badge/https://orcid.org/0000-0002-4355-2169-green)
+![Google Scholar](https://img.shields.io/badge/user=tQNSWaAAAAAJ&hl=en-blue)
+![ORCID](https://img.shields.io/badge/ORCID-0000-0002-4355-2169-green)
 
 
 
