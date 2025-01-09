@@ -30,9 +30,9 @@
     
 </div>
 
-<div style="padding-top: 20px;">
-  <![Profile views](https://komarev.com/ghpvc/?username=shahadat-hussain&color=blue)>
-</div>
+
+  ![Profile views](https://komarev.com/ghpvc/?username=shahadat-hussain&color=blue)
+
 
 
 
