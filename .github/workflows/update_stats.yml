@@ -1,0 +1,24 @@
+name: Update Research Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Runs every Sunday (weekly)
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install scholarly
+
+      - name: Run update script
+        run: python update_stats.py
