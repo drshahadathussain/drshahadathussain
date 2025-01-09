@@ -31,7 +31,9 @@
 </div>
 
 <br>
-  ![Profile views](https://komarev.com/ghpvc/?username=shahadat-hussain&color=blue)
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;margin-bottom: 20px;">
+  <![Profile views](https://komarev.com/ghpvc/?username=shahadat-hussain&color=blue)>
+</div>
 
 
 
