@@ -18,15 +18,15 @@
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/5.svg" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/6.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/7.webp" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/8.jpg" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/8.jpg" width="50" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/9.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/10.png" width="40" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/11.png" width="40" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/10.png" width="50" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/11.png" width="50" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/12.webp" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/13.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/14.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/15.webp" width="40" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/16.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/15.webp" width="50" height="35">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/16.png" width="50" height="35">
     
 </div>
 <br>
