@@ -2,7 +2,7 @@
 
 
 ## Hi 👋 I'm Shahadat Hussain
-
+A researcher in mechanical engineering as well as in materials science and technology area
 <!--
 **shahadat-hussain/shahadat-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
