@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Shahadat Hussain </h1>
-  <h3 style="border-bottom: none;">A researcher in mechanical engineering and materials science based in the UAE</h3>
+  <h3 style="border-bottom: none;">A researcher in additive manufacturing technology based in the UAE</h3>
 </div>
 
 
