@@ -78,6 +78,17 @@
 
 
 
+## 📊 Research Statistics
+
+![Publications](https://img.shields.io/badge/Publications-13-blue?style=for-the-badge)
+![Citations](https://img.shields.io/badge/Citations-377-green?style=for-the-badge)
+![h-index](https://img.shields.io/badge/h--index-9-orange?style=for-the-badge)
+![i10-index](https://img.shields.io/badge/i10--index-9-yellow?style=for-the-badge)
+
+
+
+
+
 <!--
 **shahadat-hussain/shahadat-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
