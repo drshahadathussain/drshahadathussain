@@ -8,6 +8,7 @@
   <h3 style="border-bottom: none;">A researcher in mechanical engineering as well as in materials science from UAE</h3>
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=shahadat-hussain&color=blue)
 
 
 
