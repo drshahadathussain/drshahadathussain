@@ -4,8 +4,8 @@
 
 
 <div align="center">
-  <h1> # Hi 👋 I'm Shahadat Hussain </h1>
-  <p> A researcher in mechanical engineering as well as in materials science and technology areas from UAE</p>
+  <h1>Hi 👋 I'm Shahadat Hussain </h1>
+  <h2> A researcher in mechanical engineering as well as in materials science and technology areas from UAE</h2>
 </div>
 
 
