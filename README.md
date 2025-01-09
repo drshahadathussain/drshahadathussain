@@ -9,7 +9,10 @@ A researcher in mechanical engineering as well as in materials science and techn
 - 🌱 Learning python.
 - 💬 Ask me about html, python, sql, data science, materials science, mechanical engineering and linux.
 
-
+## 🛠 Tools and Technologies:
+- Languages: Python, SQL, C
+- Software: FreeCAD, Abaqus, TinkerCAD, Cura, PreForm, IdeaMaker, GrabCAD, Materialise Magics
+- Tools: Git, Linux, Shell Scripting
 
 
 <!--
