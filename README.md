@@ -30,11 +30,14 @@
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/17.png" width="30" height="30">  
 </div>
 
+<div style="padding-top: 20px;">
+  <![Profile views](https://komarev.com/ghpvc/?username=shahadat-hussain&color=blue)>
+</div>
 
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=shahadat-hussain&color=blue)
+
 
 
 
