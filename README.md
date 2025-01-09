@@ -26,7 +26,7 @@
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/13.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/14.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/15.webp" width="50" height="35">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/16.png" width="50" height="35">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/16.png" width="60" height="50">
     
 </div>
 <br>
