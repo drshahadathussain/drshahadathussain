@@ -3,7 +3,7 @@
 
 
 # Hi 👋 I'm Shahadat Hussain
-A researcher in mechanical engineering as well as in materials science and technology area
+### A researcher in mechanical engineering as well as in materials science and technology area
 ## 🚀 About Me:
 - 🔭 Currently working on Numerical Code Verification using python.
 - 🌱 Learning python.
