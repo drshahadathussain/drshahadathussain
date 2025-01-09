@@ -12,15 +12,20 @@
 
 
 
-## 🚀 About Me:
-- 🔭 Currently working on Numerical Code Verification using python.
-- 🌱 Learning python.
-- 💬 Ask me about html, python, sql, data science, materials science, mechanical engineering and linux.
+<h2>🚀 About Me:</h2>
+<ul>
+  <li>🔭 Currently working on Numerical Code Verification using Python.</li>
+  <li>🌱 Learning Python.</li>
+  <li>💬 Ask me about HTML, Python, SQL, Data Science, Materials Science, Mechanical Engineering, and Linux.</li>
+</ul>
 
-## 🛠 Tools and Technologies:
-- Languages: Python, SQL, C
-- Software: FreeCAD, Abaqus, TinkerCAD, Cura, PreForm, IdeaMaker, GrabCAD, Materialise Magics
-- Tools: Git, Linux, Shell Scripting
+<h2>🛠 Tools and Technologies:</h2>
+<ul>
+  <li>Languages: Python, SQL, C</li>
+  <li>Software: FreeCAD, Abaqus, TinkerCAD, Cura, PreForm, IdeaMaker, GrabCAD, Materialise Magics</li>
+  <li>Tools: Git, Linux, Shell Scripting</li>
+</ul>
+
 
 
 <!--
