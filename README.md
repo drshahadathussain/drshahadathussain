@@ -3,10 +3,14 @@
 </div>
 
 
+<div align="center">
+  <h1> # Hi 👋 I'm Shahadat Hussain </h1>
+  <p> A researcher in mechanical engineering as well as in materials science and technology areas from UAE</p>
+</div>
 
 
-# Hi 👋 I'm Shahadat Hussain
-### A researcher in mechanical engineering as well as in materials science and technology area
+
+
 ## 🚀 About Me:
 - 🔭 Currently working on Numerical Code Verification using python.
 - 🌱 Learning python.
