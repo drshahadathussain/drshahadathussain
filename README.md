@@ -64,7 +64,7 @@
 
 <h2>🚀 About Me:</h2>
 <ul>
-  <li>🔭 Currently working on Luhn Algorithm for verification of credit card number using Python.</li>
+  <li>🔭 Currently working on lamda function.</li>
   <li>🌱 Learning Finite Element Analysis.</li>
   <li>💬 Ask me about HTML, Shell-scripting, LaTex, Python, SQL, Data Science, Materials Science, Mechanical Engineering, and Linux.</li>
 </ul>
