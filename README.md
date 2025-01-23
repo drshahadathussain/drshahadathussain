@@ -108,3 +108,85 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there! 👋
+
+Welcome to my GitHub profile! Here's a little bit about me:
+
+<h2>🚀 About Me:</h2>
+<ul>
+  <li>🔭 Postdoctoral Researcher working on NiTi TPMS structures.</li>
+  <li>📚 Enthusiastic about learning new programming languages and technologies.</li>
+  <li>💻 Currently exploring advanced concepts in Python, Linux command-line mastery, and data science.</li>
+  <li>🎯 Long-term goal: To excel as a research scientist in additive manufacturing and advanced materials.</li>
+</ul>
+
+
+
+<h2>📊 Python Libraries:</h2>
+Here is a list of Python libraries I frequently use in my projects:
+
+### **Data Science & Machine Learning**
+- NumPy
+- Pandas
+- SciPy
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- XGBoost
+- LightGBM
+
+### **Data Visualization**
+- Matplotlib
+- Seaborn
+- Plotly
+- Dash
+- Streamlit
+
+### **Geospatial and Mapping**
+- Folium
+- Geopandas
+- Cartopy
+- Plotly (Choropleth Maps)
+- Leafmap
+
+### **Others**
+- Flask
+- FastAPI
+- OpenCV
+- Beautiful Soup
+- Requests
+
+---
+
+<h2>📊 Stats:</h2>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahadat&show_icons=true&theme=radical)
+
+</div>
+
+---
+
+<h2>🌟 Projects:</h2>
+Here are some notable projects I've worked on:
+<ol>
+  <li><strong>Thermo-responsive Shape Memory Devices:</strong> Designed and tested prototypes for advanced applications.</li>
+  <li><strong>Python Real-World Applications:</strong> Developed several Python-based tools for data analysis and visualization.</li>
+  <li><strong>NiTi Additive Manufacturing Research:</strong> Published impactful papers on NiTi TPMS structures.</li>
+</ol>
+
+---
+
+<h2>🌐 Connect with Me:</h2>
+<div align="justify">
+
+[![Email](https://img.shields.io/badge/Email-shahadat@example.com-blue?style=for-the-badge&logo=gmail)](mailto:shahadat@example.com)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=html5)](https://example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shahadat)
+
+</div>
+
+---
+
+
+
