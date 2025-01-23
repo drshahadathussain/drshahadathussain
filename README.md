@@ -73,16 +73,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
 <h2>🚀 About Me:</h2>
 <ul>
   <li>🔭 Currently working on lamda function.</li>
@@ -124,44 +114,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-
-
-
-
-
-<h2>📈 Stats:</h2>
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahadat-hussain&show_icons=true&theme=radical)
-
-</div>
-
----
-
-<h2>🌟 Projects:</h2>
-Here are some notable projects I've worked on:
-<ol>
-  <li><strong>Thermo-responsive Shape Memory Devices:</strong> Designed and tested prototypes for advanced applications.</li>
-  <li><strong>Python Real-World Applications:</strong> Developed several Python-based tools for data analysis and visualization.</li>
-  <li><strong>NiTi Additive Manufacturing Research:</strong> Published impactful papers on NiTi TPMS structures.</li>
-</ol>
-
----
-
-<h2>🌐 Connect with Me:</h2>
-<div align="justify">
-
-[![Email](https://img.shields.io/badge/Email-engg.dr@outlook.com-blue?style=for-the-badge&logo=gmail)](mailto:shahadat@example.com)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=html5)](https://sites.google.com/view/shahadathussain)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shahadathussain)
-
-</div>
-
----
-
-
-
