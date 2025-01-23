@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 
 
-<h2>📊 Python Libraries:</h2>
+<h2>💻 Python Libraries:</h2>
 <!-- Here is a list of Python libraries I frequently use in my projects: -->
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;margin-bottom: 20px;">
