@@ -14,8 +14,12 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;margin-bottom: 20px;">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/1.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/2.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/c.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/3.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/r.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/matlab.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/2.png" width="30" height="30">
+  
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/4.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/excel.webp" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/7377994.png" width="50" height="30">
