@@ -19,11 +19,8 @@
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/r.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/matlab.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/latex.svg" width="30" height="30">
-  
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/4.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/excel.webp" width="30" height="30">
-
-   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/2.png" width="30" height="30">
+ 
   <!img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/7377994.png" width="50" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/6.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/7.webp" width="40" height="50">
@@ -39,7 +36,8 @@
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/17.png" width="30" height="30">
   <!img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/18.png" width="30" height="30"> 
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/19.jpg" width="30" height="30">
-  
+   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/excel.webp" width="30" height="30">
+   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/2.png" width="30" height="30">
 </div>
 <br>
 
