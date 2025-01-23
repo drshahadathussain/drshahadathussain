@@ -57,7 +57,23 @@
 </div>
 
 
+<h2>💻 Python Libraries:</h2>
+<!-- Here is a list of Python libraries I frequently use in my projects: -->
 
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;margin-bottom: 20px;">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/pandas.png" width="40" height="40">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/numpy.webp" width="40" height="40">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/scipy1.png" width="40" height="40">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/matplotlib.png" width="40" height="40">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/seaborn.png" width="40" height="40">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/plotly.png" width="40" height="40">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/folium.png" width="30" height="50">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/scikit.png" width="60" height="40">
+ 
+
+   
+</div>
+<br>
 
 
 
@@ -112,28 +128,12 @@ Here are some ideas to get you started:
 
 
 
-<h2>💻 Python Libraries:</h2>
-<!-- Here is a list of Python libraries I frequently use in my projects: -->
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;margin-bottom: 20px;">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/pandas.png" width="40" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/numpy.webp" width="40" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/scipy1.png" width="40" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/matplotlib.png" width="40" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/seaborn.png" width="40" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/plotly.png" width="40" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/folium.png" width="30" height="50">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/scikit.png" width="60" height="40">
- 
-
-   
-</div>
-<br>
 
 
 
 
-<h2>📊 Stats:</h2>
+
+<h2>📈 Stats:</h2>
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahadat-hussain&show_icons=true&theme=radical)
