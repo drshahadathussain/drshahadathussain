@@ -122,7 +122,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/matplotlib.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/seaborn.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/plotly.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/folium.png" width="40" height="35">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/folium.png" width="30" height="50">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/scikit.png" width="50" height="30">
  
 
