@@ -114,39 +114,23 @@ Here are some ideas to get you started:
 
 <h2>📊 Python Libraries:</h2>
 Here is a list of Python libraries I frequently use in my projects:
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;margin-bottom: 20px;">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/pandas.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/numpy.webp" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/scipy1.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/matplotlib.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/seaborn.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/plotly.png" width="30" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/folium.png" width="40" height="35">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/scikit.png" width="50" height="30">
+ 
 
-### **Data Science & Machine Learning**
-- NumPy
-- Pandas
-- SciPy
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- XGBoost
-- LightGBM
+   
+</div>
+<br>
 
-### **Data Visualization**
-- Matplotlib
-- Seaborn
-- Plotly
-- Dash
-- Streamlit
 
-### **Geospatial and Mapping**
-- Folium
-- Geopandas
-- Cartopy
-- Plotly (Choropleth Maps)
-- Leafmap
 
-### **Others**
-- Flask
-- FastAPI
-- OpenCV
-- Beautiful Soup
-- Requests
-
----
 
 <h2>📊 Stats:</h2>
 <div align="center">
