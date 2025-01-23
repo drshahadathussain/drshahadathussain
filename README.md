@@ -22,7 +22,7 @@
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/4.png" width="30" height="30">
  
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/6.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/7.webp" width="40" height="50">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/zsh.png" width="40" height="50">
  
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/10.png" width="60" height="40">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/11.png" width="60" height="40">
