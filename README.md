@@ -44,19 +44,6 @@
 
   ![Profile views](https://komarev.com/ghpvc/?username=shahadat-hussain&color=blue)
 
-
-
-## 🌐 Research Profiles
-
-<div align="justify">
-
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4355--2169-green?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0002-4355-2169)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=tQNSWaAAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-9cf?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Shahadat-Hussain)
-
-</div>
-
-
 <h2>💻 Python Libraries:</h2>
 <!-- Here is a list of Python libraries I frequently use in my projects: -->
 
@@ -74,6 +61,19 @@
    
 </div>
 <br>
+
+## 🌐 Research Profiles
+
+<div align="justify">
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4355--2169-green?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0002-4355-2169)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=tQNSWaAAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-9cf?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Shahadat-Hussain)
+
+</div>
+
+
+
 
 
 
