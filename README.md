@@ -19,7 +19,7 @@
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/matlab.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/r.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/cpp.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/latex.svg" width="50" height="30">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/latex.svg" width="50" height="35">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/4.png" width="30" height="30">
  
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/6.png" width="30" height="30">
