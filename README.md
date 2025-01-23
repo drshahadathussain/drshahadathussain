@@ -27,6 +27,7 @@
  
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/10.png" width="60" height="40">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/11.png" width="60" height="40">
+  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/abaqus.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/12.webp" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/13.png" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/14.png" width="30" height="30">
@@ -34,7 +35,7 @@
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/16.png" width="60" height="50">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/17.png" width="30" height="30">
  
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/abaqus.png" width="30" height="30">
+  
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/excel.webp" width="30" height="30">
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/2.png" width="30" height="30">
    
