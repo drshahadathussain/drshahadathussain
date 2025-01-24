@@ -40,7 +40,7 @@
   <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/origin.png" width="30" height="30">
    
 </div>
-<br>
+
 
   ![Profile views](https://komarev.com/ghpvc/?username=shahadat-hussain&color=blue)
 
