@@ -61,7 +61,7 @@
    
 </div>
 <br>
-
+<--
 ## 🌐 Research Profiles
 
 <div align="justify">
@@ -72,7 +72,7 @@
 
 </div>
 
-
+-->
 <h2>🚀 About Me</h2>
 <ul>
   <li>🔭 Currently working on lamda function.</li>
