@@ -44,7 +44,7 @@
 
   ![Profile views](https://komarev.com/ghpvc/?username=shahadat-hussain&color=blue)
 
-<h2>💻 Python Libraries:</h2>
+<h2>💻 Python Libraries</h2>
 <!-- Here is a list of Python libraries I frequently use in my projects: -->
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;margin-bottom: 20px;">
@@ -62,7 +62,7 @@
 </div>
 <br>
 
-## 🌐 Research Profiles:
+## 🌐 Research Profiles
 
 <div align="justify">
 
@@ -73,14 +73,14 @@
 </div>
 
 
-<h2>🚀 About Me:</h2>
+<h2>🚀 About Me</h2>
 <ul>
   <li>🔭 Currently working on lamda function.</li>
   <li>🌱 Learning Finite Element Analysis.</li>
   <li>💬 Ask me about HTML, Shell-scripting, LaTex, Python, SQL, Data Science, Materials Science, Mechanical Engineering, and Linux.</li>
 </ul>
 
-<h2>🛠 Tools and Technologies:</h2>
+<h2>🛠 Tools and Technologies</h2>
 <ul>
   <li>Languages: Python, SQL, C</li>
   <li>Software: FreeCAD, Abaqus, TinkerCAD, Cura, PreForm, IdeaMaker, GrabCAD, Materialise Magics</li>
