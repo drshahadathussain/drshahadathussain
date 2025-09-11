@@ -68,9 +68,9 @@
 
 <h2>🚀 About Me</h2>
 <ul>
-  <li>🔭 Currently working on lamda function.</li>
+  <li>🔭 Currently working on machine learning models for triply periodic minimal surface lattice.</li>
   <li>🌱 Learning Finite Element Analysis.</li>
-  <li>💬 Ask me about HTML, Shell-scripting, LaTex, Python, SQL, Data Science, Materials Science, Mechanical Engineering, and Linux.</li>
+  <li>💬 Ask me about HTML, Shell-scripting, LaTex, Python, MATLAB, SQL, Data Science, Materials Science, Mechanical Engineering, Machine Learning, and Linux.</li>
 </ul>
 
 
