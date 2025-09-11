@@ -74,21 +74,19 @@
 </ul>
 
 
-  <h2>📜 Certifications</h2>
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;margin-bottom: 20px;">
-    
-    <div style="display: flex; align-items: center; gap: 10px;">
-       <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/ibm.png" width="40" height="40">
-      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/4R8YJ5YWQ0NH" target="_blank">IBM Data Science Professional Certificate</a>
-    </div>
-    
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/michigan.jpg" width="40" height="40">
-      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K3LMQEN5VEKX" target="_blank">Python for Everybody</a>
-    </div>
-    
-  </div>
-</div>
+<h2>📜 Certifications</h2>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/ibm.png" width="40" height="40"></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/4R8YJ5YWQ0NH" target="_blank">IBM Data Science Professional Certificate</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/michigan.jpg" width="40" height="40"></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K3LMQEN5VEKX" target="_blank">Python for Everybody</a></td>
+  </tr>
+</table>
+
 
 <h2>🛠 Tools and Technologies</h2>
 <ul>
