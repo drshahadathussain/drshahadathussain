@@ -75,15 +75,15 @@
 
 
   <h2>📜 Certifications</h2>
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 12px; margin-top: 15px;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;margin-bottom: 20px;">
     
     <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="40" height="40" alt="IBM Logo">
+       <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/ibm.png" width="40" height="40">
       <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/4R8YJ5YWQ0NH" target="_blank">IBM Data Science Professional Certificate</a>
     </div>
     
     <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/University_of_Michigan_logo.svg" width="40" height="40" alt="University of Michigan Logo">
+      <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/michigan.jpg" width="40" height="40">
       <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K3LMQEN5VEKX" target="_blank">Python for Everybody</a>
     </div>
     
