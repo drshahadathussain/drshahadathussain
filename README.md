@@ -68,7 +68,7 @@
 
 <h2>🚀 About Me</h2>
 <ul>
-  <li>🔭 Currently working on machine learning models for triply periodic minimal surface lattice.</li>
+  <li>🔭 Currently working on machine learning models.</li>
   <li>🌱 Learning Finite Element Analysis.</li>
   <li>💬 Ask me about HTML, Shell-scripting, LaTex, Python, MATLAB, SQL, Data Science, Materials Science, Mechanical Engineering, Machine Learning, and Linux.</li>
 </ul>
@@ -82,7 +82,7 @@
     <td><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/4R8YJ5YWQ0NH" target="_blank">IBM Data Science Professional Certificate</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/michigan.jpg" width="40" height="40"></td>
+    <td><img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/umichi.png" width="40" height="40"></td>
     <td><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K3LMQEN5VEKX" target="_blank">Python for Everybody</a></td>
   </tr>
 </table>
