@@ -73,7 +73,7 @@
   <li>💬 Ask me about HTML, Shell-scripting, LaTex, Python, SQL, Data Science, Materials Science, Mechanical Engineering, and Linux.</li>
 </ul>
 
-<div align="center">
+
   <h2>📜 Certifications</h2>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 12px; margin-top: 15px;">
     
