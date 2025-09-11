@@ -73,6 +73,23 @@
   <li>💬 Ask me about HTML, Shell-scripting, LaTex, Python, SQL, Data Science, Materials Science, Mechanical Engineering, and Linux.</li>
 </ul>
 
+<div align="center">
+  <h2>📜 Certifications</h2>
+  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 12px; margin-top: 15px;">
+    
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="40" height="40" alt="IBM Logo">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/4R8YJ5YWQ0NH" target="_blank">IBM Data Science Professional Certificate</a>
+    </div>
+    
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/University_of_Michigan_logo.svg" width="40" height="40" alt="University of Michigan Logo">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K3LMQEN5VEKX" target="_blank">Python for Everybody</a>
+    </div>
+    
+  </div>
+</div>
+
 <h2>🛠 Tools and Technologies</h2>
 <ul>
   <li>Languages: Python, SQL, C, MatLab</li>
