@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/blob/main/a.gif.webp" alt="Banner" width="800">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/blob/main/a.gif.webp" alt="Banner" width="800">
 </div>
 
 
@@ -13,52 +13,52 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;margin-bottom: 20px;">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/1.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/c.svg" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/3.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/matlab.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/r.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/cpp.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/overleaf.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/latex.svg" width="50" height="35">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/4.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/1.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/c.svg" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/3.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/matlab.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/r.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/cpp.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/overleaf.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/latex.svg" width="50" height="35">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/4.png" width="30" height="30">
  
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/6.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/zsh.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/6.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/zsh.png" width="30" height="30">
  
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/10.png" width="70" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/11.png" width="70" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/abaqus.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/12.webp" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/13.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/14.png" width="30" height="30">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/15.webp" width="50" height="35">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/16.png" width="60" height="50">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/jupyter.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/10.png" width="70" height="40">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/11.png" width="70" height="40">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/abaqus.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/12.webp" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/13.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/14.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/15.webp" width="50" height="35">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/16.png" width="60" height="50">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/jupyter.png" width="30" height="30">
  
   
   
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/origin.png" width="30" height="30">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/origin.png" width="30" height="30">
    
 </div>
 
 <br>
 
 
-  ![Profile views](https://komarev.com/ghpvc/?username=shahadat-hussain&color=blue)
+  ![Profile views](https://komarev.com/ghpvc/?username=drshahadathussain&color=blue)
 
 <h2>💻 Python Libraries</h2>
 <!-- Here is a list of Python libraries I frequently use in my projects: -->
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;margin-bottom: 20px;">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/pandas.png" width="40" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/numpy.webp" width="50" height="50">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/scipy1.png" width="40" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/matplotlib.png" width="40" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/seaborn.png" width="40" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/plotly.png" width="40" height="40">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/folium.png" width="30" height="50">
-  <img src="https://github.com/shahadat-hussain/shahadat-hussain/raw/main/scikit.png" width="60" height="40">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/pandas.png" width="40" height="40">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/numpy.webp" width="50" height="50">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/scipy1.png" width="40" height="40">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/matplotlib.png" width="40" height="40">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/seaborn.png" width="40" height="40">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/plotly.png" width="40" height="40">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/folium.png" width="30" height="50">
+  <img src="https://github.com/drshahadathussain/drshahadathussain/raw/main/scikit.png" width="60" height="40">
  
 
    
@@ -108,7 +108,7 @@
 
 
 <!--
-**shahadat-hussain/shahadat-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**drshahadathussain/drshahadathussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
