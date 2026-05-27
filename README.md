@@ -94,7 +94,7 @@ End-to-end SMA capability: alloy design → fabrication → processing → chara
 **Alloy Systems Worked With:**
 - **NiTi (Nitinol)** — LPBF-fabricated TPMS lattices; phase transformation, superelasticity
 - **Cu-Al-Mn** — vacuum induction melting + rolling; high-damping structural applications
-- **Cu-Al-Ni** — sand casting + thermomechanical processing; high-temperature actuation
+- **Cu-Al-Ni** — Vacuum induction melting + thermomechanical processing; high-temperature actuation
 
 **Fabrication Routes:**
 `Vacuum Induction Melting` · `Sand Casting` · `Two-Roll Rolling` · `Laser Powder Bed Fusion` · `Heat Treatment`
