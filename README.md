@@ -142,11 +142,10 @@ I write code to process, analyse, and model experimental data — not as a separ
 
 **Peer-Reviewed Journals**
 
-- **[Imperfections in NiTi TPMS Lattice Layers Fabricated via LPBF](https://www.mdpi.com/1996-1944/15/22/7950)**  
-  *Materials*, 2022, 15(22), 7950 — Balling, intergranular cracking, melt pool spattering in Schwarz-P NiTi layers at varying relative densities and scan strategies
-
 - **[Microstructural & Surface Analysis of NiTi TPMS Lattice Sections (LPBF)](https://www.sciencedirect.com/science/article/pii/S1526612523007405)**  
   *Journal of Manufacturing Processes*, 2023, Vol. 102, pp. 375–386 — Primitive & Gyroid topologies; Ni evaporation, oxide/Ti-rich phase formation, effect of LPBF parameters on phase distribution
+- **[Imperfections in NiTi TPMS Lattice Layers Fabricated via LPBF](https://www.mdpi.com/1996-1944/15/22/7950)**  
+  *Materials*, 2022, 15(22), 7950 — Balling, intergranular cracking, melt pool spattering in Schwarz-P NiTi layers at varying relative densities and scan strategies
 
 **Conference**
 
